@@ -1,6 +1,6 @@
 token=NTQxNTc3NTY4MDYzNTg2MzA0.D3J6Bg.uqvB7iLTFEHRezF8mZyfqwH0DXM
 owner=541577568063586304 
 prefix=/
-game=#BSM
+game=BSM
 stayinchannel=false
 songinstatus=false
